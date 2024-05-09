@@ -2,20 +2,6 @@
 
 This project is a simple Java implementation of a bank account management system. It consists of three classes: `BankAccount`, `CheckingAccount`, and `SavingsAccount`, along with a `TransactionsDriver` class to demonstrate their usage.
 
-## Table of Contents
-
-- [Bank Account Management System](#bank-account-management-system)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Classes](#classes)
-    - [BankAccount](#bankaccount)
-    - [CheckingAccount](#checkingaccount)
-    - [SavingsAccount](#savingsaccount)
-    - [TransactionsDriver](#transactionsdriver)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-
 ## Introduction
 
 The project aims to provide a basic framework for managing bank accounts, including depositing, withdrawing, transferring money between accounts, applying fees for excessive transactions, and calculating compound interest for savings accounts.
@@ -46,10 +32,6 @@ To use this project:
 2. Compile the Java files using a Java compiler (`javac`).
 3. Run the `TransactionsDriver` class to see the demonstration of bank account transactions.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on GitHub.
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
